@@ -1,0 +1,15 @@
+PROGRAM hitungluasbalok
+
+  INPUT panjang (panjang  balok panjang)
+  INPUT lebar (lebar  balok panjang)
+  INPUT tinggi (lebar  balok panjang)
+
+  CALCULATE luas (luas prisma persegi panjang)
+    luas = panjang * lebar * tinggi
+
+  DISPLAY "Panjang balok: " panjang
+  DISPLAY "Lebar balok: " lebar
+  DISPLAY "Tinggi balok: " tinggi
+  DISPLAY "Luas balok: " luas
+
+END PROGRAM
